@@ -6,7 +6,7 @@
 
 ##Devicefeaturesinclude 
 
-#1.8-Vto 3.6-Voperation 
+##1.8-Vto 3.6-Voperation 
 
 #16-BitRISCarchitectureup 
 
