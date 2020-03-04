@@ -1,0 +1,1 @@
+"./blink.obj" "./led_display.obj" "../lnk_msp430g2353.cmd" -llibc.a 
