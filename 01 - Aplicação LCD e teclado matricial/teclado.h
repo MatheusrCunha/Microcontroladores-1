@@ -2,8 +2,12 @@
 
 #include "def_principais.h"
 
-#define LINHA PIND   //registrador para a leitura das linhas #define COLUNA
-PORTD  //registrador para a escrita nas colunas
+#define LINHA P2IN   //registrador para a leitura das linhas #define COLUNA
+#define COLUNA P3DIR ////registrador para a escrita nas colunas
+#define LINHA
+
+
+
 //protótipo da função unsigned char ler_teclado();
 
 
