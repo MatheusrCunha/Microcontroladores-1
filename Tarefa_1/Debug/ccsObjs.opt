@@ -1,0 +1,1 @@
+"./lcd.obj" "./main.obj" "./teclado.obj" "../lnk_msp430g2553.cmd" -llibc.a 
