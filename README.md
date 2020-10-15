@@ -4,5 +4,7 @@ material da disciplina
 
 ## Projeto Final
 
-#Nome: Matheus Rodrigues da Cunha
+Nome: Matheus Rodrigues da Cunha
 
+* Controle dos Motores
+* Comandos via UART
