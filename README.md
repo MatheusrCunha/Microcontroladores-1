@@ -13,7 +13,7 @@ Nome: Matheus Rodrigues da Cunha
 
 * Foi utilizado o MSP430F2132 e o MSP430FR2355 para simulação dos projetos.
 
-* Não foi desenvolvido muita coisa, pois não conseguir realizar todas as tarefas
+* Não foi desenvolvido muita coisa, pois não consegui realizar todas as tarefas
 
 [Flex Grid](http://www.ece.utep.edu/courses/web3376/Links_files/msp430_usersguide.pdf)
 
